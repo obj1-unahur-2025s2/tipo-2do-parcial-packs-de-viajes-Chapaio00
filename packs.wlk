@@ -12,3 +12,8 @@ object pack {
     return 1
   }
 }
+object pack1{
+  method lerolero(){
+    return 2
+  }
+}
